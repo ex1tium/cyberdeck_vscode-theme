@@ -1,4 +1,8 @@
 # README
+
+Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kabukicho-vscode with modified syntax hilight colors.
+
+
 ## This is the README for your extension "cyberpunk"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
@@ -21,3 +25,5 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * run `git clone https://github.com/ex1tium/cyberdeck_vscode-theme.git` in `user_account/.vscode/extensions` or copy files here.
 * restart vs code
 * `ctrl + shift + p` -> `>Preferences: Color Theme` -> `Cyberdec`
+
+#
