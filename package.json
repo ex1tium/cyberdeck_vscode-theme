@@ -1,0 +1,21 @@
+{
+    "name": "cyberdeck",
+    "displayName": "Cyberdeck",
+    "description": "80s cyberpunk inspired matrix client",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyberdeck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyberdeck-color-theme.json"
+            }
+        ]
+    }
+}
