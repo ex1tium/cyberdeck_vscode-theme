@@ -17,7 +17,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 **Enjoy!**
 
 # Preview
-- ![](https://i.imgur.com/0FYnDLU.png)
+- ![](https://i.imgur.com/e2X5UAa.png)
 
 
 # HOW TO INSTALL
