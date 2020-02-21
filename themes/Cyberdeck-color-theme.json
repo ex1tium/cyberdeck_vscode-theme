@@ -718,7 +718,7 @@
 				"keyword.other.skinparam.keyword",
 				"keyword.other.nim",
 				"markup.deleted.diff",
-				"source.tf support.class.variable"
+        "source.tf support.class.variable",
 			],
 			"settings": {
 				"foreground": "#ff6c11"
@@ -772,7 +772,9 @@
 				"constant.others.fsharp",
 				"keyword.other.unit",
 				"string.quoted.double.skinparam.value",
-				"source.toml constant"
+        "source.toml constant",
+        "variable.other.property"
+
 			],
 			"settings": {
 				"foreground": "#B141F1"
