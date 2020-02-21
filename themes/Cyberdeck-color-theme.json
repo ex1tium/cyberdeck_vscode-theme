@@ -399,12 +399,23 @@
 				"punctuation.definition.comment",
 				"punctuation.definition.tag",
 				"comment.block.documentation punctuation.definition.bracket",
-				"source.ocaml comment constant.regexp meta.separator"
+        "source.ocaml comment constant.regexp meta.separator",
+        
 			],
 			"settings": {
 				"foreground": "#6071CC"
 			}
-		},
+    },
+    {
+      "scope": [
+        "variable.other.property"
+
+      ],
+      "settings": {
+        "foreground": "#ecd99b",
+        "fontStyle": "underline",
+      }
+    },
 		{
 			"scope": [
 				"constant.character",
@@ -436,7 +447,8 @@
 				"entity.name.record.field.accessor.elm",
 				"storage.modifier.array.bracket",
 				"source.css entity.other",
-				"meta.attribute-selector punctuation.definition.entity"
+        "meta.attribute-selector punctuation.definition.entity"
+        
 			],
 			"settings": {
 				"foreground": "#D4CDDE"
@@ -773,7 +785,6 @@
 				"keyword.other.unit",
 				"string.quoted.double.skinparam.value",
         "source.toml constant",
-        "variable.other.property"
 
 			],
 			"settings": {
