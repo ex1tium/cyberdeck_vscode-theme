@@ -506,7 +506,7 @@
       ],
       "settings": {
         // "foreground": "#F92AAD"
-        "foreground": "#FF019A",
+        "foreground": "#FF019A"
         // "foreground": "#00ff88",
       }
     },
@@ -635,7 +635,8 @@
         "source.scala entity.name.class"
       ],
       "settings": {
-        "foreground": "#ff901f"
+        // "foreground": "#ff901f",
+        "foreground": "#d6fc00"
       }
     },
     {
@@ -813,8 +814,7 @@
       ],
       "settings": {
         // "foreground": "#ff00c1",
-        "foreground": "#00ff88",
-
+        "foreground": "#00ff88"
       }
     },
     {
