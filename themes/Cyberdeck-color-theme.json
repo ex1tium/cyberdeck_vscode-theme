@@ -447,6 +447,7 @@
       ],
       "settings": {
         "foreground": "#D4CDDE"
+        // "foreground": "#7d3adb"
       }
     },
     {
@@ -1182,6 +1183,13 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
+      }
+    },
+    {
+      "scope": ["source.ts", "source.dart"],
+      "settings": {
+        "foreground": "#df7ce2",
+        "fontStyle": ""
       }
     }
   ]
