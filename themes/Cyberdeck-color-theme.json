@@ -406,10 +406,14 @@
       }
     },
     {
-      "scope": ["variable.other.property"],
+      "scope": [
+        "variable.other.property",
+        "punctuation.definition.typeparameters.begin.ts",
+        "punctuation.definition.typeparameters.end.ts"
+      ],
       "settings": {
         "foreground": "#ecd99b",
-        "fontStyle": "underline"
+        "fontStyle": ""
       }
     },
     {
@@ -729,7 +733,8 @@
         "keyword.other.skinparam.keyword",
         "keyword.other.nim",
         "markup.deleted.diff",
-        "source.tf support.class.variable"
+        "source.tf support.class.variable",
+        "support.type.primitive.ts"
       ],
       "settings": {
         "foreground": "#ff6c11"
