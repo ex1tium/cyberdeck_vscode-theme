@@ -3,7 +3,7 @@
 Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kabukicho-vscode with modified syntax hilight colors.
 
 # Preview
-- ![](https://i.imgur.com/mdARDEw.png)
+- ![](https://i.imgur.com/FLsyxSG.png)
 
 
 # HOW TO INSTALL
