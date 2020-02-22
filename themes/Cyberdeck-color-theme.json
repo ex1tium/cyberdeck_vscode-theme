@@ -734,7 +734,8 @@
         "keyword.other.skinparam.keyword",
         "keyword.other.nim",
         "markup.deleted.diff",
-        "source.tf support.class.variable"
+        "source.tf support.class.variable",
+        "punctuation.definition.string"
       ],
       "settings": {
         "foreground": "#ff6c11"
@@ -743,7 +744,6 @@
     {
       "scope": [
         "string",
-        "punctuation.definition.string",
         "source.css support.constant",
         "entity.name.import.go",
         "markup.raw.texttt",
@@ -773,8 +773,8 @@
         "constant.numeric.dart",
         "constant.numeric.decimal.ts",
         "constant.language.boolean.true.ts",
-        "constant.language.boolean.false.ts"
-
+        "constant.language.boolean.false.ts",
+        "text.html.derivative"
       ],
       "settings": {
         "foreground": "#F9C80E"
@@ -1197,7 +1197,7 @@
       }
     },
     {
-      "scope": ["source.ts", "source.dart"],
+      "scope": ["source.ts", "source.dart", "string.quoted.double.html"],
       "settings": {
         "foreground": "#df7ce2",
         "fontStyle": ""
