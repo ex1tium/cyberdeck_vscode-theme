@@ -764,7 +764,8 @@
         "markup.inline.raw punctuation.definition.raw",
         "string.quoted.double.interpolated.crystal",
         "string.quoted.double.interpolated.crystal punctuation.definition.string",
-        "text.tex markup.raw"
+        "text.tex markup.raw",
+        "constant.numeric.dart"
       ],
       "settings": {
         "foreground": "#F9C80E"
