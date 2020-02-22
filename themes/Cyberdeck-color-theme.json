@@ -771,7 +771,9 @@
         "text.tex markup.raw",
         "constant.numeric.dart",
         "constant.numeric.decimal.ts",
-        "constant.language.boolean.true.ts"
+        "constant.language.boolean.true.ts",
+        "constant.language.boolean.false.ts"
+
       ],
       "settings": {
         "foreground": "#F9C80E"
