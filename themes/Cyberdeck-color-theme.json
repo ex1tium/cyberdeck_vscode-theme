@@ -675,7 +675,8 @@
         "text.xml entity.other.attribute-name",
         "source.cs entity.other.attribute-name",
         "constant.character.format.placeholder",
-        "constant.other.placeholder"
+        "constant.other.placeholder",
+        "entity.name.tag.html"
       ],
       "settings": {
         "foreground": "#ff2289"
@@ -820,7 +821,8 @@
         "support.variable.class.function",
         "keyword.control.cucumber.table",
         "punctuation.decorator",
-        "source.tf support.class"
+        "source.tf support.class",
+        "entity.other.attribute-name.html"
       ],
       "settings": {
         // "foreground": "#ff00c1",
