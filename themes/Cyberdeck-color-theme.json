@@ -733,8 +733,7 @@
         "keyword.other.skinparam.keyword",
         "keyword.other.nim",
         "markup.deleted.diff",
-        "source.tf support.class.variable",
-        "support.type.primitive.ts"
+        "source.tf support.class.variable"
       ],
       "settings": {
         "foreground": "#ff6c11"
@@ -1197,6 +1196,13 @@
       "scope": ["source.ts", "source.dart"],
       "settings": {
         "foreground": "#df7ce2",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["support.type.primitive.ts"],
+      "settings": {
+        "foreground": "#88f3dc",
         "fontStyle": ""
       }
     }
