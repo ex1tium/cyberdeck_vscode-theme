@@ -736,7 +736,9 @@
         "markup.deleted.diff",
         "source.tf support.class.variable",
         "punctuation.definition.string",
-        "meta.brace.round.ts"
+        "meta.brace.round.ts",
+        "punctuation.definition.parameters.end.ts",
+        "punctuation.definition.parameters.begin.ts"
         
       ],
       "settings": {
