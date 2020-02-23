@@ -1215,6 +1215,13 @@
         "foreground": "#88f3dc",
         "fontStyle": ""
       }
+    },
+    {
+      "scope": ["support.class.console.ts", "support.function.console.ts"],
+      "settings": {
+        "foreground": "#ffee00",
+        "fontStyle": "bold underline"
+      }
     }
   ]
 }
