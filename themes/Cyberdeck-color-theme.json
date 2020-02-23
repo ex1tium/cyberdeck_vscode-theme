@@ -637,7 +637,7 @@
         "support.class.builtin",
         "source.tf meta.keyword.string",
         "source.tf meta.keyword.number",
-        "source.scala entity.name.class"
+        "source.scala entity.name.class",
       ],
       "settings": {
         // "foreground": "#ff901f",
@@ -735,7 +735,9 @@
         "keyword.other.nim",
         "markup.deleted.diff",
         "source.tf support.class.variable",
-        "punctuation.definition.string"
+        "punctuation.definition.string",
+        "meta.brace.round.ts"
+        
       ],
       "settings": {
         "foreground": "#ff6c11"
@@ -774,7 +776,8 @@
         "constant.numeric.decimal.ts",
         "constant.language.boolean.true.ts",
         "constant.language.boolean.false.ts",
-        "text.html.derivative"
+        "text.html.derivative",
+
       ],
       "settings": {
         "foreground": "#F9C80E"
@@ -821,8 +824,7 @@
         "support.variable.class.function",
         "keyword.control.cucumber.table",
         "punctuation.decorator",
-        "source.tf support.class",
-        "entity.other.attribute-name.html"
+        "source.tf support.class"
       ],
       "settings": {
         // "foreground": "#ff00c1",
@@ -858,7 +860,9 @@
         "keyword.language.gherkin.feature.scenario",
         "source.nim keyword.other.common.function",
         "entity.name.type.namespace",
-        "entity.name.scope-resolution.function.call"
+        "entity.name.scope-resolution.function.call",
+        "entity.other.attribute-name.html",
+        "entity.other.ng-binding-name.template.html",
       ],
       "settings": {
         "foreground": "#58C7E0"
