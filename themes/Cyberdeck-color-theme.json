@@ -779,7 +779,9 @@
         "constant.numeric.decimal.ts",
         "constant.language.boolean.true.ts",
         "constant.language.boolean.false.ts",
-        "text.html.derivative"
+        "text.html.derivative",
+        "punctuation.definition.string.begin.ts",
+        "punctuation.definition.string.end.ts"
       ],
       "settings": {
         "foreground": "#F9C80E"
