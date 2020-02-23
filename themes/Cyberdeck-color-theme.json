@@ -738,7 +738,10 @@
         "punctuation.definition.string",
         "meta.brace.round.ts",
         "punctuation.definition.parameters.end.ts",
-        "punctuation.definition.parameters.begin.ts"
+        "punctuation.definition.parameters.begin.ts",
+        "punctuation.definition.ng-binding-name.begin.html",
+        "punctuation.definition.ng-binding-name.end.html",
+        ""
         
       ],
       "settings": {
