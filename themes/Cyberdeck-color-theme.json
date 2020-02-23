@@ -637,7 +637,7 @@
         "support.class.builtin",
         "source.tf meta.keyword.string",
         "source.tf meta.keyword.number",
-        "source.scala entity.name.class",
+        "source.scala entity.name.class"
       ],
       "settings": {
         // "foreground": "#ff901f",
@@ -740,9 +740,7 @@
         "punctuation.definition.parameters.end.ts",
         "punctuation.definition.parameters.begin.ts",
         "punctuation.definition.ng-binding-name.begin.html",
-        "punctuation.definition.ng-binding-name.end.html",
-        ""
-        
+        "punctuation.definition.ng-binding-name.end.html"
       ],
       "settings": {
         "foreground": "#ff6c11"
@@ -781,8 +779,7 @@
         "constant.numeric.decimal.ts",
         "constant.language.boolean.true.ts",
         "constant.language.boolean.false.ts",
-        "text.html.derivative",
-
+        "text.html.derivative"
       ],
       "settings": {
         "foreground": "#F9C80E"
@@ -867,7 +864,7 @@
         "entity.name.type.namespace",
         "entity.name.scope-resolution.function.call",
         "entity.other.attribute-name.html",
-        "entity.other.ng-binding-name.template.html",
+        "entity.other.ng-binding-name.template.html"
       ],
       "settings": {
         "foreground": "#58C7E0"
