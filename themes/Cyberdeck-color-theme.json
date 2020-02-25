@@ -781,7 +781,8 @@
         "constant.language.boolean.false.ts",
         "text.html.derivative",
         "punctuation.definition.string.begin.ts",
-        "punctuation.definition.string.end.ts"
+        "punctuation.definition.string.end.ts",
+        "constant.language.dart"
       ],
       "settings": {
         "foreground": "#F9C80E"
