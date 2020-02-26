@@ -755,14 +755,7 @@
         "markup.inserted.diff",
         "source.scala punctuation.definition.character",
         "constant.character.literal.scala",
-        "source.tf entity.name"
-      ],
-      "settings": {
-        "foreground": "#F9C80E"
-      }
-    },
-    {
-      "scope": [
+        "source.tf entity.name",
         "string.template",
         "punctuation.definition.string.template",
         "string.interpolated.python string.quoted.single.python",
@@ -1213,7 +1206,7 @@
       }
     },
     {
-      "scope": ["support.type.primitive.ts"],
+      "scope": ["support.type.primitive.ts", "support.class.dart"],
       "settings": {
         "foreground": "#88f3dc",
         "fontStyle": ""
