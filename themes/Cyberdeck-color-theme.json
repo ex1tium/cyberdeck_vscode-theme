@@ -863,7 +863,7 @@
         "entity.other.ng-binding-name.template.html"
       ],
       "settings": {
-        "foreground": "#58C7E0"
+        "foreground": "#00d0ff"
       }
     },
     {
@@ -1206,7 +1206,7 @@
       }
     },
     {
-      "scope": ["support.type.primitive.ts", "support.class.dart"],
+      "scope": ["support.type.primitive.ts"],
       "settings": {
         "foreground": "#88f3dc",
         "fontStyle": ""
