@@ -225,7 +225,7 @@
     "statusBar.border": "#2a2139",
     "statusBar.debuggingBackground": "#130d1a",
     "statusBar.debuggingBorder": "#08080faf",
-    "statusBar.debuggingForeground": "#08080f50",
+    "statusBar.debuggingForeground": "#d6fc00",
     "statusBar.foreground": "#f92aad",
     "statusBar.noFolderBackground": "#130d1a",
     "statusBar.noFolderBorder": "#130d1a",
