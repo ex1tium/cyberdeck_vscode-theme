@@ -6,7 +6,7 @@
     "activityBar.activeBorder": "#b141f1",
     "activityBar.background": "#130d1a",
     "activityBar.border": "#2a2139",
-    "activityBar.dropBackground": "#49549565",
+    // "activityBar.dropBackground": "#49549565",
     "activityBar.foreground": "#ff2289",
     "activityBar.inactiveForeground": "#b141f1",
     "activityBarBadge.background": "#ff2289",
@@ -321,7 +321,7 @@
     //"editorOverviewRuler.wordHighlightStrongForeground": "#c0a0c0cc",
     //"editorPane.background": "#130d1a",
     //"editorUnnecessaryCode.opacity": "#000000aa",
-    "editorWidget.foreground": "#d6fc00",
+    "editorWidget.foreground": "#d6fc00"
     //"extensionBadge.remoteBackground": "#b141f1",
     //"extensionBadge.remoteForeground": "#2a2139",
     //"gitDecoration.submoduleResourceForeground": "#8db9e2",
@@ -637,7 +637,9 @@
         "support.class.builtin",
         "source.tf meta.keyword.string",
         "source.tf meta.keyword.number",
-        "source.scala entity.name.class"
+        "source.scala entity.name.class",
+        "punctuation.definition.string.begin.html",
+        "punctuation.definition.string.end.html"
       ],
       "settings": {
         // "foreground": "#ff901f",
@@ -740,7 +742,11 @@
         "punctuation.definition.parameters.end.ts",
         "punctuation.definition.parameters.begin.ts",
         "punctuation.definition.ng-binding-name.begin.html",
-        "punctuation.definition.ng-binding-name.end.html"
+        "punctuation.definition.ng-binding-name.end.html",
+        "punctuation.section.parameters.end.bracket.round.cpp",
+        "punctuation.section.parameters.begin.bracket.round.cpp",
+        "punctuation.section.parens.begin.bracket.round.cpp",
+        "punctuation.section.parens.end.bracket.round.cpp"
       ],
       "settings": {
         "foreground": "#ff6c11"
@@ -775,7 +781,9 @@
         "text.html.derivative",
         "punctuation.definition.string.begin.ts",
         "punctuation.definition.string.end.ts",
-        "constant.language.dart"
+        "constant.language.dart",
+        "constant.numeric.decimal.cpp",
+        "variable.other.constant.ts"
       ],
       "settings": {
         "foreground": "#F9C80E"
@@ -1199,7 +1207,11 @@
       }
     },
     {
-      "scope": ["source.ts", "source.dart", "string.quoted.double.html"],
+      "scope": [
+        "source.ts",
+        "source.dart",
+        "string.quoted.double.html",
+      ],
       "settings": {
         "foreground": "#f6c4ff",
         "fontStyle": ""
