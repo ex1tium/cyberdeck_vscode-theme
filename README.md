@@ -1,6 +1,8 @@
-# README
+# Cyberdeck theme for VS Code
+![Icon](./128x128_icon.png)
 
-Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kabukicho-vscode with modified syntax hilight colors and less bling. Customized to my own tastes, but I hope you like it too. **Not published to the marketplace, so you'll have to install it manually.**
+Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kabukicho-vscode with modified syntax hilight colors and less bling. Which is based on several other themes. 
+Customized to my own tastes, but I hope you like it too. **Not published to the marketplace, so you'll have to install it manually.**
 
 ## Preview
 - ![](https://i.imgur.com/q4orsDs.png)
