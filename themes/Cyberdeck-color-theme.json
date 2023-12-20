@@ -566,7 +566,7 @@
         "constant.character.format.placeholder",
         "constant.other.placeholder",
         "entity.name.tag.html",
-        "entity.name.type.module.go"
+        "storage.type.module.go"
       ],
       "settings": {
         "foreground": "#ff2289"
@@ -677,7 +677,8 @@
         "punctuation.definition.string.end.ts",
         "constant.language.dart",
         "constant.numeric.decimal.cpp",
-        "variable.other.constant.ts"
+        "variable.other.constant.ts",
+        "entity.name.type.module.go"
       ],
       "settings": {
         "foreground": "#F9C80E"
@@ -1105,7 +1106,7 @@
       }
     },
     {
-      "scope": ["token.debug-token", "storage.type.module.go"],
+      "scope": ["token.debug-token"],
       "settings": {
         "foreground": "#B267E6",
         "fontStyle": "bold"
@@ -1130,13 +1131,6 @@
         "foreground": "#ffee00",
         "fontStyle": "bold underline"
       }
-    },
-    // {
-    //   "scope": ["variable.other.go"],
-    //   "settings": {
-    //     "foreground": "#FF007F",
-    //     "fontStyle": "bold"
-    //   }
-    // }
+    }
   ]
 }

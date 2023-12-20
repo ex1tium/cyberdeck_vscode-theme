@@ -1,40 +1,48 @@
 {
-    "name": "cyberdeck_dev",
-    "displayName": "Cyberdeck_dev",
-    "description": "DEV 80s cyberpunk inspired matrix client",
-    "version": "0.0.2",
-    "publisher": "ex1tium",
-    "engines": {
-        "vscode": "^1.42.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "cyberpunk",
-        "matrix"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cyberdeck_dev",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cyberdeck-color-theme.json"
-            }
-        ]
-    },
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#130d1a",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ex1tium/cyberdeck_vscode-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/ex1tium/cyberdeck_vscode-theme/issues"
-    },
-    "homepage": "https://github.com/ex1tium/cyberdeck_vscode-theme"
+  "name": "cyberdeck",
+  "displayName": "Cyberdeck",
+  "description": "Retrofuturistic cyberpunked matrix client for hackers and seasoned cyberdeck operators. Code hard and surf the synth waves!",
+  "version": "1.0.0",
+  "publisher": "ex1tium",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "synthwave",
+    "retrowave",
+    "neon",
+    "cyberpunk",
+    "cyberdeck",
+    "matrix",
+    "digital dystopia",
+    "retro tech",
+    "futurism",
+    "code aesthetic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberdeck",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdeck-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#5a19a5",
+    "theme": "dark"
+},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex1tium/cyberdeck_vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/ex1tium/cyberdeck_vscode-theme/issues"
+  },
+  "homepage": "https://github.com/ex1tium/cyberdeck_vscode-theme"
 }

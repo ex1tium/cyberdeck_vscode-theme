@@ -3,14 +3,14 @@
 Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kabukicho-vscode with modified syntax hilight colors and less bling. Customized to my own tastes, but I hope you like it too. **Not published to the marketplace, so you'll have to install it manually.**
 
 ## Preview
-- ![](https://i.imgur.com/elIVe6q.png)
+- ![](https://i.imgur.com/q4orsDs.png)
 
 
 ## HOW TO INSTALL
 
 * run `git clone https://github.com/ex1tium/cyberdeck_vscode-theme.git` in `user_account/.vscode/extensions` or copy files here.
 * restart vs code
-* `ctrl + shift + p` -> `>Preferences: Color Theme` -> `Cyberdec`
+* `ctrl + shift + p` -> `>Preferences: Color Theme` -> `Cyberdeck`
 
 ## DEPENDENCIES
 
