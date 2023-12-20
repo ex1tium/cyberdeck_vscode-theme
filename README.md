@@ -5,7 +5,7 @@ Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kab
 Customized to my own tastes, but I hope you like it too. **Not published to the marketplace, so you'll have to install it manually.**
 
 ## Preview
-- ![](https://i.imgur.com/q4orsDs.png)
+- ![Preview](./cyberdeck_preview.png)
 
 
 ## HOW TO INSTALL
