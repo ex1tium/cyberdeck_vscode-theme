@@ -44,3 +44,7 @@ Based on theme 'Kabukicho' by victoriadrake https://github.com/victoriadrake/kab
 
 ## Tested languages
 - As this theme is originally based on 'Kabukicho' by victoriadrake, it supports all languages that are supported by that theme. I have tested and further developed it with C#, HTML, CSS, JavaScript, TypeScript, Markdown and Go, 
+
+## Notes
+
+There is `./helpers/` folder with some python scripts to help with theme development. They are not necessary for the theme to work, but they are useful for me. You can ignore them.
